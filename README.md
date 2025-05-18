@@ -1,4 +1,5 @@
 Hashtag Sentiment Insight
+Hosted on Netlify:  https://uri-paul.netlify.app/insights/uri
 
  Overview
 
@@ -16,3 +17,4 @@ This app is a Next.js (Pages Router + TypeScript) project that fetches and visua
 ## Time Spent
 
 Approximately *2 hours* from project scaffolding through polishing responsive layouts and fixing chart integration issues.
+
